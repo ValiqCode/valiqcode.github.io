@@ -1,3 +1,3 @@
-# quastcastro.github.io
+# valiq.com
 
-<https://quastcastro.com>
+<https://valiq.com>
